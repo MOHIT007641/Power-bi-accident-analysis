@@ -1,3 +1,4 @@
+![Road_Acc_Dashboard](https://github.com/user-attachments/assets/2721a726-7e53-4a7a-96e3-a0090b2dd0a4)
 # Power-bi-accident-analysis
 🚗 Road Accident Analysis Dashboard
 📌 Overview
